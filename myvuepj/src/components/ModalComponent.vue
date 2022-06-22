@@ -33,6 +33,8 @@ export default {
   top: 0;
   width: 100%;
   height: 100%;
+  justify-content: center;
+  align-items: center;
 }
 .modal {
   background-color: rgba(0, 0, 0, 0.5);
